@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083340880393",
+    "project_id": "appcepac-dnv",
+    "storage_bucket": "appcepac-dnv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083340880393:android:3f3f7cf287b1f3d6fc96d8",
+        "android_client_info": {
+          "package_name": "com.example.app_centro_espirita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083340880393-pr3p9ua6ehkllcr0msj8g2c8p3st6koj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB12wBghRLGddSUgRq_WylCEnvJv4GXfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083340880393-pr3p9ua6ehkllcr0msj8g2c8p3st6koj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
